@@ -1,0 +1,306 @@
+{
+    "Apple___Apple_scab": {
+        "name": "Apple",
+        "disname": "Apple_Apple_scab",
+        "desc": "Apple scab, disease of apple trees caused by the ascomycete fungus Venturia inaequalis. Apple scab is found wherever apples and crabapples are grown but is most severe where spring and summer are cool and moist. The disease can cause high crop losses and is thus of economic import to apple growers.",
+        "image_path": "None",
+        "treatment": ["Regular spraying of fungicides"],
+        "uses": []
+    },
+    "Apple___Black_rot": {
+        "name": "Apple",
+        "disname": "Apple_Black_rot",
+        "desc": "Part of the reason why this fungus is so widespread and ready to attack your apple and crabapple trees is that it grows on the dead tissue of many other host plants.",
+        "image_path": "None",
+        "treatment": ["Remove the cankers by pruning at least 15 inches below the end and burn or bury them", "antibiotic streptomycin or a copper-based fungicide"],
+        "uses": []
+    },
+    "Apple___Cedar_apple_rust": {
+        "name": "Apple",
+        "disname": "Apple_Cedar_apple_rust",
+        "desc": "Cedar apple rust is a fungal disease that depends on two species to spread and develop.As the spring showers begin, the galls grow and release spores, which are carried by the wind to infect apple and crabapple trees. There, they develop into a disease that causes red spots to occur on the leaves, and that can deform the fruit.",
+        "image_path": "None",
+        "treatment": ["Immunox®", "sterol inhibitors"],
+        "uses": []
+    },
+    "Apple___healthy": {
+        "name": "Apple",
+        "disname": "Apple_healthy",
+        "desc": "An apple is an edible fruit and are cultivated worldwide.",
+        "image_path": "images/apple.jpg",
+        "treatment": [],
+        "uses": ["lower risk of thrombotic stroke", "lower risk of developing type 2 diabetes", "lower the risk of cancer"]
+    },
+    "Blueberry___healthy": {
+        "name": "Blueberry",
+        "disname": "Blueberry_healthy",
+        "desc": "The fiber, potassium, folate, vitamin C, vitamin B6, and phytonutrient content in blueberries supports heart health. The absence of cholesterol from blueberries is also beneficial to the heart. Fiber content helps to reduce the total amount of cholesterol in the blood and decrease the risk of heart disease.",
+        "image_path": "images/blueberries.jpg",
+        "treatment": [],
+        "uses": ["heart health", "bone strength", "skin health", "blood pressure", "diabetes management", "cancer prevention", "mental health."]
+    },
+    "Cherry_(including_sour)___healthy": {
+        "name": "Cherry",
+        "disname": "Cherry_(including_sour)_healthy",
+        "desc": "Sour cherry (Prunus cerasus), also commonly called tart cherry, is a fruit. It contains chemicals that might reduce swelling and act as antioxidants.",
+        "image_path": "images/sourcherry.jpg",
+        "treatment": [],
+        "uses": [" osteoarthritis", "muscle pain", "exercise-related muscle damage", " gout", "insomnia", "to increase urine production", "help digestion"]
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "name": "Cherry",
+        "disname": "Cherry_(including_sour)_Powdery_mildew",
+        "desc": "Small, red-purple spots on upper surfaces of leaves which turn brown and may coalesce; leaves may become chlorotic if there are a few lesions present; if tree becomes severely defoliated fruit may fail to develop properly and remain light in color and watery in texture",
+        "image_path": "None",
+        "treatment": ["Bordeaux mixture", "fungicides"],
+        "uses": []
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "name": "Corn",
+        "disname": "Corn_(maize)_Cercospora_leaf_spot Gray_leaf_spot",
+        "desc": "In minimum tillage fields with a history of GLS, symptoms can occur on the lower leaves prior to tasseling.Immature GLS lesions can be easily confused with lesions caused by other pathogens; e.g., eyespot (Kabatiella), anthracnose (Colletrichum).",
+        "image_path": "None",
+        "treatment": ["foliar fungicides", "duPont aproach Prima", "Stratego YLD"],
+        "uses": []
+    },
+    "Corn_(maize)___Common_rust_": {
+        "name": "Corn",
+        "disname": "Corn_(maize)_Common_rust_",
+        "desc": "Infections begin as light green to yellow spots on leaves, which then develop into small (< 1/4-inch long), reddish brown, raised pustules. Pustules rupture the leaf epidermis and contain small, cinnamon-brown, powdery spores and can become darker brown to black late in the season ",
+        "image_path": "None",
+        "treatment": ["fungicides"],
+        "uses": []
+    },
+    "Corn_(maize)___healthy": {
+        "name": "Corn",
+        "disname": "Corn_(maize)_healthy",
+        "desc": " Its high dietary fiber content may ensure that it plays a significant role in the prevention of digestive ailments like constipation. The antioxidants present in it might act as anti-carcinogenic agents and may help in preventing Alzheimer’s disease.",
+        "image_path": "images/corn.jpg",
+        "treatment": [],
+        "uses": ["cancer", "heart disease", "type 2 diabetes"]
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "name": "Corn",
+        "disname": "Corn_(maize)_Northern_Leaf_Blight",
+        "desc": "",
+        "image_path": "None",
+        "treatment": [],
+        "uses": []
+    },
+    "Grape___Black_rot": {
+        "name": "Grape",
+        "disname": "Grape_Black_rot",
+        "desc": "Symptoms of black rot first appear as small yellow spots on leaves. Enlarged spots (lesions) have a dark brownish-red border with tan to dark brown centers. As the infection develops, tiny black dots appear in the lesion, usually in a ring pattern near the border of the lesion . These dots are fungal structures (pycnidia), which contain thousands of spores (conidia) that can infect new tissue. New infections can occur in less than 10 hours at temperatures between 60 to 85 degrees Fahrenheit.",
+        "image_path": "None",
+        "treatment": ["Bulletin 780", "Bulletin 506"],
+        "uses": []
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "name": "Grape",
+        "disname": "Grape_Esca_(Black_Measles)",
+        "desc": "Symptom appears on leaves, trunk, canes and berries. On leaves we will see intervenaial striping looks like tiger strips. White cultivars shows chlorotic and necrotic strips where as red cultivars shows red areas and necrotic strips. On berries we will see superficial spots and later may coalesce making berries appear black. Trunk/arm/cordons shows dark brown black vascular streaking and oozes dark sap when we cut trunk. Some time this measles in associate with numerous secondary wood rotting fungi which decorate the vineyard completely.",
+        "image_path": "None",
+        "treatment": ["sealant (5% boric acid in acrylic paint)", "suitable fungicides"],
+        "uses": []
+    },
+    "Grape___healthy": {
+        "name": "Grape",
+        "disname": "Grape_healthy",
+        "desc": "Grapes are the most widely produced commercial fruit crop in the world. They are often eaten fresh but are also commonly used to produce wine. Grapes can also be processed into jams, and preserves, juices, grape seed oil, grape seed extract, raisins and vinegar",
+        "image_path": "images/grapes.jpg",
+        "treatment": [],
+        "uses": ["chronic diseases", "May Help Lower Blood Pressure", "may protect against common eye diseases"]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "name": "Grape",
+        "disname": "Grape_Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "desc": "On leaf surface we will see lesions which are irregularly shaped (2 to 25 mm in diameter). Initially lesions are dull red to brown in color turn black later. If disease is severe this lesions may coalesce. On berries we can see symptom similar to black rot but the entire clusters will collapse.",
+        "image_path": "None",
+        "treatment": ["Fungicides"],
+        "uses": []
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "name": "Orange",
+        "disname": "Orange_Haunglongbing_(Citrus_greening)",
+        "desc": "HLB symptoms are more apparent during cooler seasons, more so than in warmer months. It is uncertain how long a tree can be infected before showing the symptoms of the disease but, when it eventually becomes symptomatic, symptoms appear on different parts of the tree. Infected trees generally develop some canopy thinning, with twig dieback and discolored leaves, which appear in contrast to the other healthy or symptomless parts of the tree.",
+        "image_path": "None",
+        "treatment": ["Florida and Texas", "pesticides"],
+        "uses": []
+    },
+    "Peach___Bacterial_spot": {
+        "name": "Peach",
+        "disname": "Peach_Bacterial_spot",
+        "desc": "Leaf symptoms of bacterial spot on peaches and nectarines are generally dark, small lesions, often clustered at the leaf tip where water collects during dews and rain. Leaf tissue around lesions can turn yellow.",
+        "image_path": "None",
+        "treatment": ["Biscoe", "Blazing Star", "Candor", "Contender", "Harrow Beauty", "Harrow Diamond", " PF1", "PF12A", "PF24-007", "PF27A", "Starfire"],
+        "uses": []
+    },
+    "Peach___healthy": {
+        "name": "Peach",
+        "disname": "Peach_healthy",
+        "desc": "Peaches boast lots of potential health benefits, including improved digestion, a healthy heart, a strong immune system and improved allergy symptoms. Dietitian Maxine Smith, RDN, LD, explains why this fuzzy fruit is so peachy keen.",
+        "image_path": "images/peach.jpg",
+        "treatment": [],
+        "uses": ["Heart health", "Improved digestion", "Healthy eyes", "Smoother skin"]
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "name": "Pepper",
+        "disname": "Pepper_bell_Bacterial_spot",
+        "desc": "Bacterial leaf spot causes lesions on the leaves that look as though they are soaked with water. These lesions normally begin on the lower leaves. As the disease progresses, it leaves a dark, purple-brown spot with a light brown center. Bacterial leaf spot on peppers causes spotting and raised cracks in the fruit. The cracks provide an opening for other disease pathogens.",
+        "image_path": "None",
+        "treatment": ["Crop rotation can help prevent bacterial leaf spot"],
+        "uses": []
+    },
+    "Pepper,_bell___healthy": {
+        "name": "Pepper",
+        "disname": "Pepper_bell_healthy",
+        "desc": "They are low in calories and exceptionally rich in vitamin C and other antioxidants, making them an excellent addition to a healthy diet. Bell peppers come in various colors, such as red, yellow, orange, and green — which are unripe. Green, unripe peppers have a slightly bitter flavor and are not as sweet as fully ripe ones.",
+        "image_path": "images/pepperbell.jpg",
+        "treatment": [],
+        "uses": ["Anemia prevention", "Eye health"]
+    },
+    "Potato___Early_blight": {
+        "name": "Potato",
+        "disname": "Potato_Early_blight",
+        "desc": "Early blight is primarily a disease of stressed or senescing plants. Symptoms appear first on the oldest foliage. Affected leaves develop circular to angular dark brown lesions 0.12 to 0.16 inch (3–4 mm) in diameter. Concentric rings often form in lesions to produce characteristic target-board effect. Severely infected leaves turn yellow and drop. Infected tubers show a brown, corky dry rot.",
+        "image_path": "None",
+        "treatment": ["AZOXYSTROBIN", "BOSCALID", "CHLOROTHALONIL"],
+        "uses": []
+    },
+    "Potato___healthy": {
+        "name": "Potato",
+        "disname": "Potato_healthy",
+        "desc": "Potatoes are edible tubers, available worldwide and all year long. They are relatively cheap to grow, rich in nutrients, and they can make a delicious treat.",
+        "image_path": "images/potato.jpg",
+        "treatment": [],
+        "uses": ["Bone health", "Blood pressure", "Metabolism", "Immunity"]
+    },
+    "Potato___Late_blight": {
+        "name": "Potato",
+        "disname": "Potato_Late_blight",
+        "desc": "When plants have become infected, lesions  appear on the leaves, petioles, and stems. A whitish growth of spore-producing structures may appear at the margin of the lesions on the underleaf surfaces. Potato tubers develop rot up to 15 mm (0.6 inch) deep",
+        "image_path": "None",
+        "treatment": ["Fungicides"],
+        "uses": []
+    },
+    "Raspberry___healthy": {
+        "name": "Raspberry",
+        "disname": "Raspberry_healthy",
+        "desc": "The antioxidant contentTrusted Source of plant foods, such as raspberries, may help prevent a range of health conditions. Vitamins C and E, selenium, beta carotene, lutein, lycopene, and zeaxanthin are all examplesTrusted Source of antioxidants, and they are all presentTrusted Source in raspberries. Raspberries also contain plant chemicals called flavonoids, which have antioxidant effects.",
+        "image_path": "images/raspberry.jpg",
+        "treatment": [],
+        "uses": ["May Improve Arthritis", "May Aid Weight Loss"]
+    },
+    "Soybean___healthy": {
+        "name": "Soybean",
+        "disname": "Soybean_healthy",
+        "desc": "Soybeans are high in protein and a decent source of both carbs and fat. They are a rich source of various vitamins, minerals, and beneficial plant compounds, such as isoflavones. For this reason, regular soybean intake may alleviate the symptoms of menopause and reduce your risk of prostate and breast cancer.",
+        "image_path": "images/soyabeans.jpg",
+        "treatment": [],
+        "uses": ["May reduce cancer risk", "Alleviation of menopause symptoms", "Suppression of thyroid function"]
+    },
+    "Squash___Powdery_mildew": {
+        "name": "Squash",
+        "disname": "Squash_Powdery_mildew",
+        "desc": "Powdery mildew, mainly caused by the fungus Podosphaera xanthii, infects all cucurbits, including muskmelons, squash, cucumbers, gourds, watermelons and pumpkins. In severe cases, powdery mildew can cause premature death of leaves, and reduce yield and fruit quality",
+        "image_path": "None",
+        "treatment": ["Apply fertilizer based on soil test results. Avoid over-applying nitrogen", "Once a week, examine five mature leaves for powdery mildew infection. In large plantings, repeat at 10 different locations in the field", "Apply fungicides after finding the first spot of powdery mildew."],
+        "uses": []
+    },
+    "Strawberry___healthy": {
+        "name": "Strawberry",
+        "disname": "Strawberry_healthy",
+        "desc": "The antioxidants and polyphenols in these berries support heart health and prevent various forms of cancer. And so does the vitamin C these berries contain, which also contributes to skin and hair health. The fiber these berries are replete with aids digestion and helps in weight loss.",
+        "image_path": "images/strawberry.jpg",
+        "treatment": [],
+        "uses": ["Blood sugar regulation", "Cancer prevention", "Heart health"]
+    },
+    "Strawberry___Leaf_scorch": {
+        "name": "Strawberry",
+        "disname": "Strawberry_Leaf_scorch",
+        "desc": "Scorched strawberry leaves are caused by a fungal infection which affects the foliage of strawberry plantings. The fungus responsible is called Diplocarpon earliana.",
+        "image_path": "None",
+        "treatment": ["Proper garden sanitation", "Removal of infected garden debris from the strawberry patch", "Consistent strawberry harvest"],
+        "uses": []
+    },
+    "Tomato___Bacterial_spot": {
+        "name": "Tomato",
+        "disname": "Tomato_Bacterial_spot",
+        "desc": "Bacterial spot of tomato is caused by Xanthomonas vesicatoria, Xanthomonas euvesicatoria, Xanthomonas gardneri, and Xanthomonas perforans. These bacterial pathogens can be introduced into a garden on contaminated seed and transplants, which may or may not show symptoms.",
+        "image_path": "None",
+        "treatment": [" A plant with bacterial spot cannot be cured. Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants"],
+        "uses": []
+    },
+    "Tomato___Early_blight": {
+        "name": "Tomato",
+        "disname": "Tomato_Early_blight",
+        "desc": "Common on tomato plants, early blight is caused by the fungus Alternaria solani and occurs throughout the United States. Symptoms first appear on the lower, older leaves as small brown spots with concentric rings that form a “bull’s eye” pattern. ",
+        "image_path": "None",
+        "treatment": ["Prune or stake plants to improve air circulation and reduce fungal problems.", "Drip irrigation and soaker hoses can be used to help keep the foliage dry.", "Burn or bag infected plant parts. Do NOT compost."],
+        "uses": []
+    },
+    "Tomato___healthy": {
+        "name": "Tomato",
+        "disname": "Tomato_healthy",
+        "desc": "Tomatoes are loaded with a substance called lycopene. It gives them their bright red color and helps protect them from the ultraviolet rays of the sun. In much the same way, it can help protect your cells from damage. Tomatoes also have potassium, vitamins B and E, and other nutrients.",
+        "image_path": "images/tomatoe.jpg",
+        "treatment": [],
+        "uses": ["Cancer", "Blood pressure", "Good for the Skin and Hair", "Good for Your Bones"]
+    },
+    "Tomato___Late_blight": {
+        "name": "Tomato",
+        "disname": "Tomato_Late_blight",
+        "desc": "Tomato late blight is caused by the oomycete pathogen Phytophthora infestans (P. infestans). The pathogen is best known for causing the devastating Irish potato famine of the 1840s, which killed over a million people, and caused another million to leave the country. Late blight on tomato leaf.",
+        "image_path": "None",
+        "treatment": ["Plant resistant cultivars when available.", "Remove volunteers from the garden prior to planting and space plants far enough apart to allow for plenty of air circulation.", "Destroy all tomato and potato debris after harvest"],
+        "uses": []
+    },
+    "Tomato___Leaf_Mold": {
+        "name": "Tomato",
+        "disname": "Tomato_Leaf_Mold",
+        "desc": "Cladosporium fulvum is an Ascomycete called Passalora fulva, a non-obligate pathogen that causes the disease on tomato known as the Tomato leaf mold. P. fulva only attacks tomato plants, especially the foliage, and it is a common disease in greenhouses, but can also occur in the field.",
+        "image_path": "None",
+        "treatment": ["Baking soda solution", "Camelot O", "Cueva "],
+        "uses": []
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "name": "Tomato",
+        "disname": "Tomato_Septoria_leaf_spot",
+        "desc": "Septoria leaf spot is caused by a fungus, Septoria lycopersici. It is one of the most destructive diseases of tomato foliage and is particularly severe in areas where wet, humid weather persists for extended periods.",
+        "image_path": "None",
+        "treatment": ["Remove diseased leaves", "Chlorothalonil", "Copper-based fungicide"],
+        "uses": []
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "name": "Tomato",
+        "disname": "Tomato_Spider_mites Two-spotted_spider_mite",
+        "desc": "The two-spotted spider mite is a common species on tomatoes in the south and is distinguishable by a pair of dark spots visible through the orange body. The dark spots on spider mites are generally the accumulation of body waste under the skin, hence the newly formed individuals may lack the spots.",
+        "image_path": "None",
+        "treatment": ["Bifenazate", "Spiromesifen", "Etoxazol", "Abamectin"],
+        "uses": []
+    },
+    "Tomato___Target_Spot": {
+        "name": "Tomato",
+        "disname": "Tomato_Target_Spot",
+        "desc": "Target spot of tomato is favored by temperatures of 68 to 82°F and leaf wetness periods as long as 16 hours. The target spot fungus can survive in host residue for a period.",
+        "image_path": "None",
+        "treatment": ["Dithane", "Manzate", "Penncozeb"],
+        "uses": []
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "name": "Tomato",
+        "disname": "Tomato_Tomato_mosaic_virus",
+        "desc": "There are many viruses that can infect tomatoes. They are often capable of infecting many other species of plants as well. For example, tomato mosaic virus most often infects tomatoes",
+        "image_path": "None",
+        "treatment": ["Avoid using tobacco products around tomato plants", "Completely pull up and burn infected plants.", "There is currently no chemical options"],
+        "uses": []
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "name": "Tomato",
+        "disname": "Tomato_Tomato_Yellow_Leaf_Curl_Virus",
+        "desc": "Tomato yellow leaf curl virus (TYLCV) is a DNA virus from the genus Begomovirus and the family Geminiviridae. TYLCV causes the most destructive disease of tomato, and it can be found in tropical and subtropical regions causing severe economic losses.",
+        "image_path": "None",
+        "treatment": ["Imidacloprid", "Inspect plants for whitefly infestations two times per week.", "Spray with azadirachtin "],
+        "uses": []
+    }
+}
